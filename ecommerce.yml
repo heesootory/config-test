@@ -1,7 +1,8 @@
 token:
   expiration_time: 86400000
-  secret: my_token_changed_22222
-
+  secret: my_token_native_application_changed_#2
+  # secret: '{cipher}AQA3z/zufwup9oDn4Nd7OghFPPwZBhrUxo0LS4UCKGKczwIn345bNUY2f/DRzEIibiiFymfW1qf0Q/NWOqagEYyrzQI4n8xTafMbGzowr/wtZGxr9uHDjR8neCxzSwn24VsquCr99tFejhdwSnD0vT9DiVKpRBYtPD4VCvla8Yo7dhAhbFBNtfw/byFnwrsEAgkXewf1IoPvR7gTZcBSKf1LruDWx7M4f6j26JHiHn79fWDYIR7S9tXrxGYs9YwGLApmHeRLsZxoJCYJVMXYmaNMu+MYdjHuV9c247dbnpK5a3hjdm4ubUjeNs+WcqE7FYlbuWM2aQzA4diYkqmPcbXJr+UQerm4G9/+Euqb9JbcxC1MSxyn7YoHKmYZtyxH/Yap1oC2GlCiSX5EcP86Us3T'
+  
 
 gateway:
   ip: 192.168.219.173
